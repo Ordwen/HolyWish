@@ -1,0 +1,10 @@
+name: HolyWish
+main: Main
+version: 1.0.0
+api-version: 1.17
+author: Ordwen
+prefix: HolyWish
+commands:
+  speedboots:
+    description: give one speedboots
+    permission: speedboots.use
